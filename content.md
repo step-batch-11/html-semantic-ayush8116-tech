@@ -14,7 +14,7 @@ Published: March 15, 2026
 
 Introduction:
 Urban farming is transforming unused city spaces into productive green zones. Rooftop gardens are leading this change.
-
+  
 Section 1 Title: Why Rooftop Gardens Matter
 Content:
 Cities face food insecurity and environmental stress. Rooftop gardens reduce heat and improve air quality.
