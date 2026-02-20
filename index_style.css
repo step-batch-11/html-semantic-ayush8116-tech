@@ -57,9 +57,8 @@ nav a {
 
 main {
   width: 100%;
-  /* height: 100%; */
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 
 main section {
@@ -82,13 +81,49 @@ article {
 
 article > hgroup > h2 {
   text-align: center;
-  font-size: 28px;
+  font-size: 32px;
 }
 
 article section {
   display: flex;
   flex-direction: column;
   gap: 20px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid rgb(211, 211, 211);
+}
+
+section figure {
+  align-self: center;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+section figure figcaption {
+  text-align: center;
+}
+
+article section mark {
+  width: max-content;
+}
+
+main aside {
+  background-color: #ededed;
+  width: 15%;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  padding-top: 20px;
+  gap: 20px;
+}
+
+main aside h3 {
+  text-align: center;
+}
+
+main aside a {
+  padding-left: 10px;
+  text-decoration: none;
+  color: black;
 }
 
 footer {
